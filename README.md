@@ -20,7 +20,6 @@ Aqui estão as tecnologias com as quais tenho experiência acadêmica e prática
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-###  Estatísticas do GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Davi-leal&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do Davi" />
 </div>
@@ -28,5 +27,5 @@ Aqui estão as tecnologias com as quais tenho experiência acadêmica e prática
 ###  Como me encontrar
 Estou sempre aberto a novas conexões, trocas de conhecimento e oportunidades na área de tecnologia. 
 
-- **LinkedIn:** [Acesse meu perfil profissional](www.linkedin.com/in/davi-leal-a48b69447)
-- **E-mail:** [Seu Email Profissional](davi.lealcan@gmail.com)
+- **LinkedIn:** [](www.linkedin.com/in/davi-leal-a48b69447)
+- **E-mail:** [](davi.lealcan@gmail.com)
